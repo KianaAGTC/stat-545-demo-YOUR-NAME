@@ -1,2 +1,3 @@
-# stat-545-demo-YOUR-NAME
+# stat-545-demo-KianaYazdani
 STAT545 Demo
+A happy scientist!
